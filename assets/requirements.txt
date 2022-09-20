@@ -1,0 +1,13 @@
+Modules used-
+
+tabulate
+sqlite3
+termcolor
+csv
+os
+
+
+Project completed 40%
+
+
+666 lines of code
